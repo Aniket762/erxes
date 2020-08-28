@@ -14,7 +14,7 @@ Welcome to the March 2020 release of Erxes. The number of updates and new featur
 
 <!--truncate-->
 
-#### What’s new:
+# What’s new:
 
 *   **Added mandatory fields as BIRTHDAY and GENDER in customer basic info field.** In gender field, there is options as Not known, Male, Female and not Applicable.
 *   The Deal, Ticket, Task cards can be shown their first 20 items list on each sections respectively.
@@ -34,7 +34,9 @@ Welcome to the March 2020 release of Erxes. The number of updates and new featur
 *   **Added archive function in Deal, Task, Ticket and Growth hacking cards.** All cards can be archived and then it can be looked back and sent to board task or list.
 *   **Added email verification service.** Some email services such AWS SES possible to directly block for unverified emails. So it is necessary to verify email using email verification service like TrueMail before sending email in order to prevent the server would block verified emails.  
 
-#### Improvements and Bug fixes:
+
+
+# Improvements and Bug fixes:
 
 *   **Fixed copy card with labels in Deal, Ticket, Task , GrowthHack** **cards.** It was lost labels on the copied version whilst copy the cards.
 
@@ -52,7 +54,10 @@ Welcome to the March 2020 release of Erxes. The number of updates and new featur
 *   **Fixed bug which shows activity log in Deal, Ticket, Task , GrowthHack** **cards.**
 *   There will be removed account automatically which is not integrated to any Erxes integrations.
 
-#### Breaking changes:
+
+
+
+# Breaking changes:
 
 *   **Translation**: Renamed some language codes (np -> hi, jp -> ja, kr -> ko, ptBr -> pt-br, vn -> vi, zh -> zh-cn)
 
